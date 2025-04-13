@@ -78,7 +78,6 @@
 .coffee-cup{
     width: 600px;
     height: auto;
-    pointer-events: none;
     animation: swing 2s infinite ease-in-out;
 }
 
